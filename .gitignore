@@ -1,2 +1,11 @@
+#Ignore virtual environment
+venv/
 
+#Ignore python cache files
+__pychache__/
+
+#Ignore log files
+*.log
+
+*.py[cod]
 .codegpt
